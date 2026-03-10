@@ -78,10 +78,9 @@ A análise revelou que o perfil do cliente propenso ao *churn* é complexo, mas 
 
 ## 📂 Estrutura do Repositório
 
-* `images/`: Gráficos gerados para o relatório.
+* `images/`: Gráficos gerados.
 * `Challenge_TelecomX_Parte_2.ipynb`: Código completo e análises.
 * `dados`: Base de dados [Dados Fictícios]
-* `TelecomX_dicionario`: Estrutura dos Dados
 
 ---
 
